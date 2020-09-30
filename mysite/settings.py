@@ -25,7 +25,7 @@ SECRET_KEY = '+#4i*4ic(!$57)=4)=0=(cep_cqb_pv7816zl76(o2o5he_lh('
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1', 'junibuni.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'https://www.junibuni.pythonanywhere.com']
 
 
 # Application definition
